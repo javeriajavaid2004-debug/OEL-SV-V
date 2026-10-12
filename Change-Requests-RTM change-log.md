@@ -27,8 +27,3 @@ Only authenticated operators shall be permitted to issue robot commands.
 The system shall require authenticated and role-authorised operators before accepting any robot command.
 **Reason:**
 The new requirement checks both operator identity and command permissions.
-## Version History
-| Version | Description |
-|---|---|
-| 1.0 | Original approved requirements |
-| 1.1 | CR-01, CR-02 and CR-03 modified |
