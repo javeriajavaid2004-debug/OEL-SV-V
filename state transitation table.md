@@ -1,5 +1,4 @@
 # Delivery Robot – State Transition Verification
-
 | Current State | Event / Condition | Next State | Requirement | Valid? | Verification Evidence |
 |---|---|---|---|---|---|
 | ST-01 IDLE | PowerOn and checks pass | ST-01 IDLE | FR-01 | Yes | TC-01 |
